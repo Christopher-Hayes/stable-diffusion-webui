@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source /home/chris/ai/sb/auto11/venv/bin/activate
+python3 launch.py
+

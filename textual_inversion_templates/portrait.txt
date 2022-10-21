@@ -1,0 +1,7 @@
+[name] portrait
+portrait by [name]
+portrait of [name]
+bust portrait by [name]
+[name] bust portrait
+art by [name]
+[name] style 
